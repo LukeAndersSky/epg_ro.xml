@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="">
   <channel id="al_jazeera.ro">
     <display-name lang="ro">Al Jazeera</display-name>
     <icon src="https://static.cinemagia.ro/img/tv/stations_logo/40/al-jazeera.jpg" />
